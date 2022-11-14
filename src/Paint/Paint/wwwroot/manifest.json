@@ -1,6 +1,6 @@
 {
-  "name": "ComponentsWebAssembly-CSharp",
-  "short_name": "ComponentsWebAssembly-CSharp",
+  "name": "Paint",
+  "short_name": "Paint",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
