@@ -1,9 +1,17 @@
 ﻿@page "/"
 
-<PageTitle>Index</PageTitle>
+<PageTitle>Paint</PageTitle>
 
-<h1>Hello, world!</h1>
+<h1>Paint</h1>
 
-Welcome to your new app.
+<canvas width="500" height="500" onclick="@canvas_draw">
 
-<SurveyPrompt Title="How is Blazor working for you?" />
+</canvas>
+
+@code {
+
+    void canvas_draw()
+    {
+        
+    }
+}
